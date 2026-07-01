@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou a Raquel Barcheta!
 
-<img src="foto.png" width="150px" style="border-radius: 50%;">
+<p align="center">
+  <img src="foto.png" width="300px" style="border-radius: 50%;">
+</p>
 
 ------------------------------------------------------------------------
 
