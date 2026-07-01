@@ -1,5 +1,6 @@
 # 👋 Olá, eu sou a Raquel Barcheta!
 
+<img src="foto.png" width="150px" style="border-radius: 50%;">
 
 ------------------------------------------------------------------------
 
@@ -29,4 +30,4 @@ onde venho aprendendo e praticando tecnologias voltadas para o desenvolvimento
 
 ------------------------------------------------------------------------
 
-⭐ *Sempre aberto a colaborações, novas ideias e desafios!*
+⭐ *Sempre aberta a colaborações, novas ideias e desafios!*
